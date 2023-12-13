@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KSKS8", "KSKS8\KSKS8.vcxproj", "{AB3463DC-DE54-4130-84C0-376D426DABFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Debug|x64.ActiveCfg = Debug|x64
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Debug|x64.Build.0 = Debug|x64
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Debug|x86.Build.0 = Debug|Win32
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Release|x64.ActiveCfg = Release|x64
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Release|x64.Build.0 = Release|x64
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Release|x86.ActiveCfg = Release|Win32
+		{AB3463DC-DE54-4130-84C0-376D426DABFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422FEA5A-6D78-497E-BD4D-212F14A016D9}
+	EndGlobalSection
+EndGlobal
